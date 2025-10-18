@@ -5,6 +5,12 @@ It is a full-featured web application designed to help educational institutions 
 
 This project demonstrates core Django development skills, including model–view–template (MVT) architecture, database handling, authentication, and role-based dashboards.
 
+## 🎥 Demo Video
+
+👉 Watch the full demo here:  
+[![Watch the demo][https://drive.google.com/file/d/15kSAc44sJhd4_nCj89EyKYtLiYpHWH1s/view?usp=sharing
+]
+
 🚀 Features
 🧑‍💼 Admin Panel
 
